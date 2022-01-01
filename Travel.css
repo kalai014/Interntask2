@@ -1,9 +1,11 @@
 body {
     margin: 0;
-    align-items:center;
     background: #e6e6e6;
 }
-
+.con
+{
+    align-items:center;
+}
 .heading {
     display: flex;
     text-align: center;
